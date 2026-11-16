@@ -1,0 +1,19 @@
+{
+  "name": "Tienda Clara · Inventario de barrio",
+  "short_name": "Tienda Clara",
+  "description": "Controla el inventario de tu tienda o licorera de forma sencilla.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#166534",
+  "lang": "es-CO",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
